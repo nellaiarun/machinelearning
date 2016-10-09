@@ -3,6 +3,7 @@
 """
 Created on Mon Aug 29 11:27:40 2016
 @author: Arunachalam Thirunavukkarasu
+©Copyrights Reserved by Author.
 """
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
